@@ -11,7 +11,7 @@ close: Tancar
 ########
 # MENU #
 ########
-welcome: ¡Benvingut/da!
+welcome: Benvingut/da!
 about: Sobre mi
 experience: Experiència
 education: Educació

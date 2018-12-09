@@ -11,7 +11,7 @@ close: Cerrar
 ########
 # MENU #
 ########
-welcome: Bienvenid@!
+welcome: ¡Bienvenid@!
 about: Acerca
 experience: Experiencia
 education: Educación
