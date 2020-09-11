@@ -6,4 +6,4 @@ name:
 exclude: [README.md]
 permalink: pretty
 repository: psique/psique.github.io
-baseurl: /psique.github.io/
+baseurl: /

@@ -8,12 +8,12 @@
       <meta name="author" content="marc">
       <title>{{ page.title }} | {{ site.name[page.language] }}</title>
       <meta name="description" content="{{ site.description[page.language] }}">
-    	<link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon">
-    	<link rel="icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon">
+    	<link rel="shortcut icon" href="{{ site.baseurl }}favicon.ico" type="image/x-icon">
+    	<link rel="icon" href="{{ site.baseurl }}favicon.ico" type="image/x-icon">
       <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
-      <link rel="stylesheet" href="{{ site.baseurl }}/libs/font-awesome/css/font-awesome.min.css">
-      <link href="{{ site.baseurl }}/css/bootstrap.min.css" rel="stylesheet">
-      <link href="{{ site.baseurl }}/css/styles.css" rel="stylesheet">
+      <link rel="stylesheet" href="{{ site.baseurl }}libs/font-awesome/css/font-awesome.min.css">
+      <link href="{{ site.baseurl }}css/bootstrap.min.css" rel="stylesheet">
+      <link href="{{ site.baseurl }}css/styles.css" rel="stylesheet">
 
       <!-- Global site tag (gtag.js) - Google Analytics -->
       <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130684339-1"></script>
@@ -43,17 +43,17 @@
               </li>
               <li style="float:right;">
                   <a href="{{ site.baseurl }}" class="no-scroll">
-                      <img src="{{ site.baseurl }}/images/english_flag.png" alt="English flag" width="32" height="20">
+                      <img src="{{ site.baseurl }}images/english_flag.png" alt="English flag" width="32" height="20">
                   </a>
               </li>
               <li style="float:right;">
                   <a href="{{ site.baseurl | append: "es" }}" class="no-scroll">
-                      <img src="{{ site.baseurl }}/images/spanish_flag.png" alt="Spanish flag" width="32" height="20">
+                      <img src="{{ site.baseurl }}images/spanish_flag.png" alt="Spanish flag" width="32" height="20">
                   </a>
               </li>
               <li style="float:right;">
                   <a href="{{ site.baseurl | append: "ca" }}" class="no-scroll">
-                      <img src="{{ site.baseurl }}/images/catalan_flag.png" alt="Catalan flag" width="32" height="20">
+                      <img src="{{ site.baseurl }}images/catalan_flag.png" alt="Catalan flag" width="32" height="20">
                   </a>
               </li>
               <br>
@@ -69,9 +69,11 @@
 
       <div id="lead">
           <div id="lead-content">
-              <h1>Marc Bisquert Garcia</h1>
-              <h2>{{ page.profession }}</h2>
-              <a href="https://drive.google.com/open?id=1mG8EopC0IgaZwmxG7LhdNGtsXdyNnBpx" class="btn-rounded-white">CV</a>
+              <div style="border: 4px blue dotted;">
+                <h1>Marc Bisquert Garcia</h1>
+                <h2>{{ page.profession }}</h2>
+                <a href="https://drive.google.com/open?id=1mG8EopC0IgaZwmxG7LhdNGtsXdyNnBpx" class="btn-rounded-white">CV</a>
+            </div>
           </div>
           <!-- End #lead-content -->
 
@@ -187,7 +189,7 @@
       <!-- End footer -->
 
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-      <script src="{{ site.baseurl }}/js/scripts.min.js"></script>
+      <script src="{{ site.baseurl }}js/scripts.min.js"></script>
 
   </body>
 
