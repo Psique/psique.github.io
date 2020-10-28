@@ -109,13 +109,13 @@
       } else {
         if (companyName === "Universitat Pompeu Fabra") {
           $(this).prepend(
-            '<div class="vtimeline-icon"><img width="46" height="35" src="images/' +
+            '<div class="vtimeline-icon"><img width="46" height="35" src="/images/' +
               companyName +
               '.png" style="border-radius: 30px; margin-top: 8px;"/></div>'
           );
         } else {
           $(this).prepend(
-            '<div class="vtimeline-icon"><img width="50" height="50" src="images/' +
+            '<div class="vtimeline-icon"><img width="50" height="50" src="/images/' +
               companyName +
               '.png" /></div>'
           );
