@@ -47,10 +47,10 @@
         <i class="fa fa-times" aria-hidden="true"></i>
       </div>
       <ul id="menu" class="shadow">
-        <li style="float: left;">
+        <li style="float: left">
           <a id="welcome"><strong>{{ page.welcome }}</strong></a>
         </li>
-        <li style="float: right;">
+        <li style="float: right">
           <a href="{{ site.baseurl }}" class="no-scroll">
             <img
               src="{{ site.baseurl }}images/english_flag.png"
@@ -60,7 +60,7 @@
             />
           </a>
         </li>
-        <li style="float: right;">
+        <li style="float: right">
           <a href="{{ site.baseurl | append: 'es' }}" class="no-scroll">
             <img
               src="{{ site.baseurl }}images/spanish_flag.png"
@@ -70,7 +70,7 @@
             />
           </a>
         </li>
-        <li style="float: right;">
+        <li style="float: right">
           <a href="{{ site.baseurl | append: 'ca' }}" class="no-scroll">
             <img
               src="{{ site.baseurl }}images/catalan_flag.png"
@@ -110,7 +110,7 @@
           <i
             class="fa fa-chevron-down"
             aria-hidden="true"
-            style="margin-top: 2px;"
+            style="margin-top: 2px"
           ></i>
         </span>
       </div>
@@ -119,14 +119,14 @@
     <div id="about">
       <div class="container">
         <div class="row">
-          <div class="col-md-3" style="text-align: center;">
+          <div class="col-md-3" style="text-align: center">
             <h2 class="heading">{{ page.about }}</h2>
             <br />
             <img
               width="175px"
               height="175px"
-              src="images/About.jpg"
-              style="border-radius: 30px; margin-bottom: 30px;"
+              src="{{ site.baseurl }}images/About.jpg"
+              style="border-radius: 30px; margin-bottom: 30px"
             />
           </div>
           <div class="col-md-9">
@@ -168,12 +168,8 @@
 
     <div id="education">
       <h2 class="heading">{{ page.education }}</h2>
-      <div class="education-block">
-        {{ page.education_2_detail }}
-      </div>
-      <div class="education-block">
-        {{ page.education_1_detail }}
-      </div>
+      <div class="education-block">{{ page.education_2_detail }}</div>
+      <div class="education-block">{{ page.education_1_detail }}</div>
     </div>
 
     <div id="skills">
@@ -215,16 +211,14 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-5 copyright">
-            <p>
-              Copyright &copy; 2020 Marc Bisquert Garcia
-            </p>
+            <p>Copyright &copy; 2020 Marc Bisquert Garcia</p>
           </div>
           <div class="col-sm-2 top">
             <span id="to-top">
               <i
                 class="fa fa-chevron-up"
                 aria-hidden="true"
-                style="margin-top: 6px;"
+                style="margin-top: 6px"
               ></i>
             </span>
           </div>
