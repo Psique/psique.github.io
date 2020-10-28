@@ -18,21 +18,21 @@ education: Educación
 skills: Habilidades
 contact: Contacto
 
-profession: <i>Don't fight the feeling</i>
+# profession: <i>Escorpio, 25 años...</i>
 
 #########
 # ABOUT #
 #########
-about_detail: Me considero una persona abierta al mundo y con dinámicas propias de otro siglo aunque fiel admirador de los avances tecnológicos. Dedico mi tiempo libre a proyectos personales relacionados con la extracción de datos, la escucha activa de música y a la lectura de temas de mi interés. Me gusta destacar mi predisposición a conocerme mejor y hacer de mi mismo una mejor persona, a mi propio juicio claro está. De forma autodidacta siempre trato de mejorar mis dotes musicales y mi formación lingüística para que no me agarre desprevenido cuando decida viajar por el mundo. Además, en estos momentos estoy recuperando el sentido de ejercitarme, el deporte vuelve ser clave en mi rutina diaria tras una década en la inopia.<br><br>Graduado en ingeniería informática, actualmente <strong>trabajo en Polaroo como desarrollador de una aplicación nativa</strong>. Disfruto manipulando grandes cantidades de datos y programando robots automatizando la navegación en red en busca de contenido relevante.
+about_detail: Soy una persona abierta que está descubriendo su destino mientras cultiva placeres y aficiones como programar, tocar la guitarra o salir a dar una vuelta. Disfruto rodeado de los míos, gente que admiro y con quién me siento identificado aunque necesito una cantidad de tiempo equivalente para mi solo.<br><br>La música y la naturaleza funcionan como dos válvulas de escape. Dedico mi tiempo libre a proyectos personales relacionados con la extracción de datos y la escucha activa de música, siempre tratando de imitar las mejores canciones de blues. Creo que es esencial tener una buena postura, me hace sentir capaz de mis sueños y, a la vez, ganar bienestar general para los años venideros.<br><br>Graduado en informática, actualmente estoy trabajando como ingeniero de software en una aplicación de móvil nativa en Polaroo. Soy un entusiasta de la minería de datos, concretamente de la automatización de procesos en la red a través de páginas web.
 
 ##############
 # EXPERIENCE #
 ##############
 experience_8_date: Abril 2019 – Actualmente
-experience_8_detail: <h3>Ingeniero de Software</h3><h4><a href="https://polaroo.com" target=”_blank”>Polaroo</a></h4><p>Responsable de los procesos de extracción de datos creando APIs a partir de información desestructurada presente en varias páginas web. Además, en Polaroo estamos desarrollando una aplicación nativa para móvil de simplificar tu vida financiera.</p>
+experience_8_detail: <h3>Ingeniero de Software</h3><h4><a href="https://polaroo.com" target=”_blank”>Polaroo</a></h4><p>Responsable de los procesos de extracción de datos creando APIs a partir de información desorganizada presente en varias páginas web. Además, en Polaroo estamos desarrollando una aplicación nativa para móvil de simplificar tu vida financiera.</p>
 
 experience_7_date: Abril 2019 – Agosto 2019
-experience_7_detail: <h3>Programador Web</h3><h4><a href="https://ceeabarcelona.com" target=”_blank”>CEEA</a></h4><p>La associación para el aprendizaje de la anestesiología en Cataluña organiza dos cursos al año. Estos cursos cubren aspectos teóricos y prácticos de esta disciplina y su gestión se realiza integramente a través de la plataforma.</p>
+experience_7_detail: <h3>Programador Web</h3><h4><a href="https://ceeabarcelona.com" target=”_blank”>CEEA</a></h4><p>La asociación para el aprendizaje de la anestesiología en Cataluña organiza dos cursos al año. Estos cursos cubren aspectos teóricos y prácticos de esta disciplina y su gestión se realiza íntegramente a través de la plataforma.</p>
 
 experience_6_date: Septiembre 2018 – Abril 2019
 experience_6_detail: <h3>Profesor particular</h3><h4>Classgap</h4><p>Profesor particular de programación web, algoritmos y bases de datos. Las clases, destinadas a alumnos de licenciaturas y ciclos formativos, se imparten a través de la plataforma online.</p>

@@ -21,12 +21,12 @@ contact: Contacte
 ########
 # LEAD #
 ########
-profession: <i>Don't fight the feeling</i>
+# profession: <i>Escorpí, 25 anys...</i>
 
 #########
 # ABOUT #
 #########
-about_detail: Em considero una persona oberta al món i amb dinàmiques pròpies d'un altre segle encara que fidel admirador dels avenços tecnològics. Dedico el meu temps lliure a projectes personals relacionats amb l'extracció de dades, l'escolta activa de música i la lectura de temes del meu interès. M'agrada destacar la meva predisposició a conèixer-me millor i fer de mi mateix una millor persona, al meu propi judici és clar. De forma autodidàctica sempre intento millorar els meus dots musicals i la meva formació lingüística perquè no m'agafi desprevingut quan decideixi viatjar pel món. A més, a hores d'ara estic recuperant el sentit d'exercitar, l'esport torna a ser clau en la meva rutina diària després d'una dècada en la inòpia.<br><br>Graduat en enginyeria informàtica, actualment <strong>treballo com a freelance en el desenvolupament d'aplicacions web</strong>. Gaudeixo manipulant grans quantitats de dades i desenvolupant robots; automatitzo la navegació en xarxa a la recerca de contingut rellevant a diferents pàgines web.
+about_detail: Sóc una persona oberta qui està descobrint el seu destí cultivant plaers i aficions com ara programar, tocar la guitarra o donar una volta. Gaudeixo envoltat dels meus, gent a la qual admiro i amb qui em sento identificat, encara que necessito una quantitat de temps equivalent a la meva.<br><br>La música i la natura em serveixen com a dues vàlvules d'escapament. Dedico el meu temps lliure a projectes personals relacionats amb l'extracció de dades i també escolto activament música, tractant d'imitar alguna de les millors cançons de blues. Crec que és essencial tenir una bona postura, em fa sentir capaç dels meus somnis i a la vegada guanyar benestar general pels anys vinents.<br><br>Graduat en informàtica, actualment estic treballant com enginyer de software a Polaroo en una aplicació de mòbil nativa. Sóc un entusiasta de la mineria de dades, concretament de l'automatització de tasques a través de pàgines web.
 
 ##############
 # EXPERIENCE #
@@ -35,10 +35,10 @@ experience_8_date: Abril 2019 – Actualment
 experience_8_detail: <h3>Enginyer de Software</h3><h4><a href="https://polaroo.com" target=”_blank”>Polaroo</a></h4><p>Responsable dels processos d'extracció de dades mitjançant la creació d'APIs a partir d'informació desestructurada allotjada a diferents pàgines web. A més, a Polaroo estem desenvolupant una aplicació per a mòbil capaç de simplificar la teva vida financera.</p>
 
 experience_7_date: Abril 2019 – Agost 2019
-experience_7_detail: <h3>Programador Web</h3><h4><a href="https://ceeabarcelona.com" target=”_blank”>CEEA</a></h4><p>L'associació per a l'aprenentatge de l'anestesiología a Catalunya organitza dos cursos a l'any. Aquests cursos cobreixen aspectes teórics i pràctics d'aquesta disciplina i la seva gestió es realitza integrament a través de la plataforma.</p>
+experience_7_detail: <h3>Programador Web</h3><h4><a href="https://ceeabarcelona.com" target=”_blank”>CEEA</a></h4><p>L'associació per a l'aprenentatge de l'anestesiologia a Catalunya organitza dos cursos a l'any. Aquests cursos cobreixen aspectes teòrics i pràctics d'aquesta disciplina i la seva gestió es realitza íntegrament a través de la plataforma.</p>
 
 experience_6_date: Setembre 2018 – Abril 2019
-experience_6_detail: <h3>Professor particular</h3><h4>Classgap</h4><p>Professor particular de programació web, algorismes i bases de dades. Las classes, destinades a alumnes de llicenciatures i cicles formatius, s'imparteixen a través de la plataforma online.</p>
+experience_6_detail: <h3>Professor particular</h3><h4>Classgap</h4><p>Professor particular de programació web, algorismes i bases de dades. Les classes, destinades a alumnes de llicenciatures i cicles formatius, s'imparteixen a través de la plataforma en línia.</p>
 
 experience_5_date: Agost 2018 – Novembre 2018
 experience_5_detail: <h3>Programador Back-end</h3><h4>Glibum</h4><p>Autònom a càrrec del desenvolupament del back-end d'una plataforma que permet la realització de debats en xarxa entre universitats i col·legis. Implementació dels serveis utilitzant NodeJS i bases de dades documentals mitjançant MongoDB.</p>

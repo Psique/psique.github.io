@@ -22,12 +22,12 @@ contact: Contact
 ########
 # LEAD #
 ########
-profession: <i>Don't fight the feeling</i>
+# profession: <i>Scorpion, 25 years...</i>
 
 #########
 # ABOUT #
 #########
-about_detail: I consider myself as an open-minded person with pleasures typical of another century, although a faithful admirer of technological advances. I dedicate my spare time to personal projects related to data extraction, active listening to music and reading topics of my interest. I like to highlight my predisposition to know myself better and to grow as a better person, in my own opinion of course. In a self-taught way, I always try to improve my musical skills and my linguistic training so that I don't get caught off guard when I decide to travel the world. In addition, at the moment I am recovering the sense of working out, sport is once again key in my daily routine after a decade in the dark. <br><br>Graduated in computer engineering, I am currently <strong>working as a freelancer in web development applications</strong>. I consider myself as an enthusiast of data mining, I feel comfortable automating the net and browsing for interesting information in websites. I like scripting too and I would enjoy to provide my expertise to other people.
+about_detail: I consider myself an open-minded person who is discovering his fate by growing hobbies and pleasures such as coding, playing guitar and strolling out. I enjoy being surrounded by people that I admire and can relate to although I need an equivalent amount of time by myself.<br><br>Music and nature function as two blow off valves. I dedicate my spare time to personal projects related to data extraction and I do actively listen to music trying to cover some of best blues tracks. I like to have a good posture, it makes me feel capable of my dreams as well as gaining health for the years to come.<br><br>Graduated as a computer scientist, I am currently working in a native mobile application at Polaroo as a software engineer. I am an enthusiast of data mining and process orchestration and I feel comfortable automating the net and browsing for interesting information in websites.
 
 ##############
 # EXPERIENCE #
