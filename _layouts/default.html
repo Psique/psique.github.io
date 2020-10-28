@@ -7,19 +7,12 @@
     <meta name="author" content="marc" />
     <title>{{ page.title }} | {{ site.name[page.language] }}</title>
     <meta name="description" content="{{ site.description[page.language] }}" />
-    <link
-      rel="shortcut icon"
-      href="{{ site.baseurl }}favicon.ico"
-      type="image/x-icon"
-    />
-    <link rel="icon" href="{{ site.baseurl }}favicon.ico" type="image/x-icon" />
-    <link href="{{ site.baseurl }}fonts/Lato" rel="stylesheet" />
-    <link
-      rel="stylesheet"
-      href="{{ site.baseurl }}libs/font-awesome/css/all.css"
-    />
-    <link href="{{ site.baseurl }}css/bootstrap.min.css" rel="stylesheet" />
-    <link href="{{ site.baseurl }}css/styles.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link href="/fonts/Lato" rel="stylesheet" />
+    <link rel="stylesheet" href="/libs/font-awesome/css/all.css" />
+    <link href="/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/css/styles.css" rel="stylesheet" />
 
     <script
       async
@@ -51,9 +44,9 @@
           <a id="welcome"><strong>{{ page.welcome }}</strong></a>
         </li>
         <li style="float: right">
-          <a href="{{ site.baseurl }}" class="no-scroll">
+          <a href="/" class="no-scroll">
             <img
-              src="{{ site.baseurl }}images/english_flag.png"
+              src="/images/english_flag.png"
               alt="English flag"
               width="32"
               height="20"
@@ -63,7 +56,7 @@
         <li style="float: right">
           <a href="{{ site.baseurl | append: 'es' }}" class="no-scroll">
             <img
-              src="{{ site.baseurl }}images/spanish_flag.png"
+              src="/images/spanish_flag.png"
               alt="Spanish flag"
               width="32"
               height="20"
@@ -73,7 +66,7 @@
         <li style="float: right">
           <a href="{{ site.baseurl | append: 'ca' }}" class="no-scroll">
             <img
-              src="{{ site.baseurl }}images/catalan_flag.png"
+              src="/images/catalan_flag.png"
               alt="Catalan flag"
               width="32"
               height="20"
@@ -125,7 +118,7 @@
             <img
               width="175px"
               height="175px"
-              src="{{ site.baseurl }}images/About.jpg"
+              src="/images/About.jpg"
               style="border-radius: 30px; margin-bottom: 30px"
             />
           </div>
@@ -250,6 +243,6 @@
     </footer>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="{{ site.baseurl }}js/scripts.min.js"></script>
+    <script src="/js/scripts.min.js"></script>
   </body>
 </html>
